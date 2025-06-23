@@ -1,4 +1,4 @@
-# PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
+# Programación sobre Redes - PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
 
 ## Objetivos
 
@@ -8,13 +8,13 @@
 4. Construir un cliente en consola que interactúe con la API.
 
 
-## Instrucciones para clonar ejecutar el proyecto
+## Instrucciones para ejecutar el servidor
 
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/mi-tp-pfo2.git
-cd mi-tp-pfo2
+git clone https://github.com/ifiora/redes_pfo2
+cd redes_pfo2
 ```
 
 ### Crear el entorno virtual
@@ -40,6 +40,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### Ejecutar el servidor
+
+```bash
+python servidor.py
+```
+El servidor estará disponible en http://localhost:5000
 
 
 
