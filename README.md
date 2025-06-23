@@ -4,7 +4,6 @@
   - [Objetivos](#objetivos)
   - [Instrucciones para ejecutar el servidor](#instrucciones-para-ejecutar-el-servidor)
   - [Capturas de pantalla de pruebas exitosas](#capturas-de-pantalla-de-pruebas-exitosas)
-
   - [Preguntas conceptuales](#preguntas-conceptuales)
 
 
