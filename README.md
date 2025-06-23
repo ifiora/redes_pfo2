@@ -48,5 +48,22 @@ python servidor.py
 ```
 El servidor estará disponible en http://localhost:5000
 
+### Ejecutar el cliente
+```bash
+python cliente.py
+```
+Podemos usar esta aplicación de consola para registrar usuarios y ver el endpoint de tareas usando un usuario registrado.
 
+## Capturas de pantalla de pruebas exitosas
 
+### Endpoint de Registro
+
+![alt text](image1.png)
+
+### Endpoint de Login
+
+![alt text](image2.png)
+
+### Endpoint de Tareas
+
+![alt text](image3.png)
