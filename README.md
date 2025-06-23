@@ -67,3 +67,15 @@ Podemos usar esta aplicación de consola para registrar usuarios y ver el endpoi
 ### Endpoint de Tareas
 
 ![alt text](image3.png)
+
+
+## Preguntas conceptuales
+
+### ¿Por qué hashear contraseñas?
+El hasheo de contraseñas es un proceso unidireccional (no reversible) que permite almacenar las contraseñas en la base de datos sin exponer el valor real de las mismas. Esto hace que aunque alguien consiga acceso a nuestra base de datos no pueda saber cual es la contraseña real de cada uno de los usuarios de una manera trivial.
+Por lo tanto el hasheo de contraseñas es una medida de seguridad basica que tenemos que implementar para proteger los datos los usuarios de nuestro sistema.
+
+
+### Ventajas de usar SQLite en este proyecto
+SQLite nos permite generar una base de datos sin tener que instalar un servidor externo, esto es ideal para proyectos pequeños o academicos como este.
+También nos guarda toda la información en un solo archivo .db lo que lo hace liviano y portable.
