@@ -1,5 +1,13 @@
 # Programación sobre Redes - PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
 
+## Índice
+  - [Objetivos](#objetivos)
+  - [Instrucciones para ejecutar el servidor](#instrucciones-para-ejecutar-el-servidor)
+  - [Capturas de pantalla de pruebas exitosas](#capturas-de-pantalla-de-pruebas-exitosas)
+
+  - [Preguntas conceptuales](#preguntas-conceptuales)
+
+
 ## Objetivos
 
 1. Implementar una API REST con endpoints funcionales.
